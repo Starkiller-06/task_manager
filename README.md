@@ -12,9 +12,6 @@ and views, you will be able to visualize your tasks by week, day, and month.
 descriptions of their tasks statuses.
 * Customization: Users will have different options to filter and categorize their tasks.
 
-Date Started: April 3
-Date Finished: April 28
-
 For testing (account with some examples):
     Acc Name: XimenaR
     Password: 123456
